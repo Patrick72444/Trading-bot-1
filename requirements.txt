@@ -1,2 +1,2 @@
 Flask
-python-binance==1.0.17
+git+https://github.com/tiagosiebler/binance-futures-connector.git
