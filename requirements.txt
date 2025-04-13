@@ -1,2 +1,2 @@
 Flask
-git+https://github.com/tiagosiebler/binance-futures-connector.git
+git+https://github.com/tiagosiebler/binance-futures-connector.git@master
